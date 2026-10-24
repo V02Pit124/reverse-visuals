@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 2,
+	"name": "potato",
+	"modules": {
+		"lowFire": {"enabled": true},
+		"clearView": {"enabled": true},
+		"noHurtCam": {"enabled": true},
+		"motionBlur": {"enabled": false},
+		"ambientParticles": {"enabled": false},
+		"customSky": {"enabled": false}
+	}
+}

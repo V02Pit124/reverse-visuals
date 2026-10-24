@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 2,
+	"name": "clean-pvp",
+	"modules": {
+		"hitColor": {"enabled": true},
+		"damageIndicator": {"enabled": true},
+		"targetIndicator": {"enabled": true},
+		"lowFire": {"enabled": true},
+		"noHurtCam": {"enabled": true},
+		"motionBlur": {"enabled": false}
+	}
+}

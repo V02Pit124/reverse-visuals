@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 2,
+	"name": "cinematic",
+	"modules": {
+		"customSky": {"enabled": true},
+		"fogStyle": {"enabled": true},
+		"trails": {"enabled": true},
+		"jumpCircles": {"enabled": true},
+		"ambientParticles": {"enabled": true},
+		"smoothCamera": {"enabled": false}
+	}
+}

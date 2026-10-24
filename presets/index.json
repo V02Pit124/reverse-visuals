@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"presets": [
+		{
+			"name": "Clean PvP",
+			"author": "V02Pit124",
+			"description": "Readable fights: hit colour, damage numbers, target indicator and low fire, nothing that hides the enemy.",
+			"file": "clean-pvp.json",
+			"tags": ["pvp", "fps"]
+		},
+		{
+			"name": "Cinematic",
+			"author": "V02Pit124",
+			"description": "Custom sky, soft fog, trails and jump circles for recording and screenshots.",
+			"file": "cinematic.json",
+			"tags": ["video", "sky"]
+		},
+		{
+			"name": "Potato",
+			"author": "V02Pit124",
+			"description": "Only the lightest effects for low-end laptops: low fire, clear view and no hurt cam.",
+			"file": "potato.json",
+			"tags": ["fps"]
+		}
+	]
+}
